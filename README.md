@@ -1,2 +1,4 @@
 # Hello_JT
-my project
+my project.
+
+It's a copy of the initial file.
